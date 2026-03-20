@@ -1,0 +1,8 @@
+*.iml
+.gradle/
+local.properties
+**/build/
+.DS_Store
+
+# Gradle wrapper jar is intentionally excluded in this environment (binary upload limitation)
+CourierRelayAndroid/gradle/wrapper/gradle-wrapper.jar
